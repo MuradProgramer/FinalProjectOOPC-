@@ -1,0 +1,34 @@
+﻿  FinalProject.cpp
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceDataBase.h(81,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceIngredient.h(30,80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceIngredient.h(36,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceRecipetItem.h(24,92): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceMeals.h(39,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceMeals.h(50,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceMeals.h(71,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceKitchen.h(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\NameSpaceKitchen.h(54,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(95,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(103,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(319,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(336,95): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(358,82): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(404,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(420,115): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(442,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(487,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(502,78): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(534,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(658,72): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(693,72): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(727,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(740,104): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(762,82): warning C4244: '-=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(737,12): warning C4101: 'money': unreferenced local variable
+C:\Users\User\source\repos\FinalProjectRestoraunt\FinalProjectRestoraunt\FinalProject.cpp(915,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProjectRestoraunt.vcxproj -> C:\Users\User\source\repos\FinalProjectRestoraunt\Debug\FinalProjectRestoraunt.exe
